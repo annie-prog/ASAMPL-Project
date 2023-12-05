@@ -1,0 +1,7 @@
+2N3255 15
+2N4950 20
+2N3805 18
+2N3904 8
+2N3906 0
+Darlington_Pair_5 0
+Darlington_Pair_2 0

@@ -1,0 +1,871 @@
+Description Format: 
+id: Darlington_Pair_1
+width: 11
+heigth: 7
+components:
+2N3904: (0, 0), 0
+2N3904: (10, 0), 1
+2N3904: (10, 0), 1
+connections:(1.3, 2.2),(1.1, 2.1)
+
+Machine-Level Format: 1803
+Darlington_Pair_1:
+    2N3904: 3 (0,0) 0 (10,0) 1 (10,0) 1 
+261 777 257 265 
+
+Visual Format:
+Darlington_Pair_1
+
+0000000*000
+0102030*010
+0000000*000
+********020
+********000
+********030
+********000
+
+Description Format: 
+id: Darlington_Pair_0
+width: 10
+heigth: 10
+components:
+20123f: (5, 5), 0
+1239uf: (0, 0), 0
+connections:(1.1, 2.1),(1.3, 2.2)
+
+Machine-Level Format: 2570
+Darlington_Pair_0:
+    1239uf: 1 (0,0) 0 
+    20123f: 1 (5,5) 0 
+1285 0 1287 257 
+
+Visual Format:
+Darlington_Pair_0
+
+103*******
+020*******
+**********
+**********
+**********
+*****1030*
+*****0200*
+*****0000*
+**********
+**********
+
+Description Format: 
+id: Darlington_Pair_1
+width: 11
+heigth: 7
+components:
+2N3904: (0, 0), 0
+2N3904: (10, 0), 1
+2N3904: (10, 0), 1
+connections:(1.3, 2.2),(1.1, 2.1)
+
+Machine-Level Format: 1803
+Darlington_Pair_1:
+    2N3904: 3 (0,0) 0 (10,0) 1 (10,0) 1 
+261 777 257 265 
+
+Visual Format:
+Darlington_Pair_1
+
+0000000*000
+0102030*010
+0000000*000
+********020
+********000
+********030
+********000
+
+Description Format: 
+id: Darlington_Pair_0
+width: 10
+heigth: 10
+components:
+20123f: (5, 5), 0
+1239uf: (0, 0), 0
+connections:(1.1, 2.1),(1.3, 2.2)
+
+Machine-Level Format: 2570
+Darlington_Pair_0:
+    1239uf: 1 (0,0) 0 
+    20123f: 1 (5,5) 0 
+1285 0 1287 257 
+
+Visual Format:
+Darlington_Pair_0
+
+103*******
+020*******
+**********
+**********
+**********
+*****1030*
+*****0200*
+*****0000*
+**********
+**********
+
+Description Format: 
+id: Darlington_Pair_1
+width: 11
+heigth: 7
+components:
+2N3904: (0, 0), 0
+2N3904: (10, 0), 1
+2N3904: (10, 0), 1
+connections:(1.3, 2.2),(1.1, 2.1)
+
+Machine-Level Format: 1803
+Darlington_Pair_1:
+    2N3904: 3 (0,0) 0 (10,0) 1 (10,0) 1 
+261 777 257 265 
+
+Visual Format:
+Darlington_Pair_1
+
+0000000*000
+0102030*010
+0000000*000
+********020
+********000
+********030
+********000
+
+Description Format: 
+id: Darlington_Pair_0
+width: 10
+heigth: 10
+components:
+20123f: (5, 5), 0
+1239uf: (0, 0), 0
+connections:(1.1, 2.1),(1.3, 2.2)
+
+Machine-Level Format: 2570
+Darlington_Pair_0:
+    1239uf: 1 (0,0) 0 
+    20123f: 1 (5,5) 0 
+1285 0 1287 257 
+
+Visual Format:
+Darlington_Pair_0
+
+103*******
+020*******
+**********
+**********
+**********
+*****1030*
+*****0200*
+*****0000*
+**********
+**********
+
+Description Format: 
+id: Darlington_Pair_1
+width: 11
+heigth: 7
+components:
+2N3904: (0, 0), 0
+2N3904: (10, 0), 1
+2N3904: (10, 0), 1
+connections:(1.3, 2.2),(1.1, 2.1)
+
+Machine-Level Format: 1803
+Darlington_Pair_1:
+    2N3904: 3 (0,0) 0 (10,0) 1 (10,0) 1 
+261 777 257 265 
+
+Visual Format:
+Darlington_Pair_1
+
+0000000*000
+0102030*010
+0000000*000
+********020
+********000
+********030
+********000
+
+Description Format: 
+id: Darlington_Pair_0
+width: 10
+heigth: 10
+components:
+20123f: (5, 5), 0
+1239uf: (0, 0), 0
+connections:(1.1, 2.1),(1.3, 2.2)
+
+Machine-Level Format: 2570
+Darlington_Pair_0:
+    1239uf: 1 (0,0) 0 
+    20123f: 1 (5,5) 0 
+1285 0 1287 257 
+
+Visual Format:
+Darlington_Pair_0
+
+103*******
+020*******
+**********
+**********
+**********
+*****1030*
+*****0200*
+*****0000*
+**********
+**********
+
+Description Format: 
+id: Darlington_Pair_1
+width: 11
+heigth: 7
+components:
+2N3904: (0, 0), 0
+2N3904: (10, 0), 1
+2N3904: (10, 0), 1
+connections:(1.3, 2.2),(1.1, 2.1)
+
+Machine-Level Format: 1803
+Darlington_Pair_1:
+    2N3904: 3 (0,0) 0 (10,0) 1 (10,0) 1 
+261 777 257 265 
+
+Visual Format:
+Darlington_Pair_1
+
+0000000*000
+0102030*010
+0000000*000
+********020
+********000
+********030
+********000
+
+Description Format: 
+id: Darlington_Pair_0
+width: 10
+heigth: 10
+components:
+20123f: (5, 5), 0
+1239uf: (0, 0), 0
+connections:(1.1, 2.1),(1.3, 2.2)
+
+Machine-Level Format: 2570
+Darlington_Pair_0:
+    1239uf: 1 (0,0) 0 
+    20123f: 1 (5,5) 0 
+1285 0 1287 257 
+
+Visual Format:
+Darlington_Pair_0
+
+103*******
+020*******
+**********
+**********
+**********
+*****1030*
+*****0200*
+*****0000*
+**********
+**********
+
+Description Format: 
+id: Darlington_Pair_1
+width: 11
+heigth: 7
+components:
+2N3904: (0, 0), 0
+2N3904: (10, 0), 1
+2N3904: (10, 0), 1
+connections:(1.3, 2.2),(1.1, 2.1)
+
+Machine-Level Format: 1803
+Darlington_Pair_1:
+    2N3904: 3 (0,0) 0 (10,0) 1 (10,0) 1 
+261 777 257 265 
+
+Visual Format:
+Darlington_Pair_1
+
+0000000*000
+0102030*010
+0000000*000
+********020
+********000
+********030
+********000
+
+Description Format: 
+id: Darlington_Pair_0
+width: 10
+heigth: 10
+components:
+20123f: (5, 5), 0
+1239uf: (0, 0), 0
+connections:(1.1, 2.1),(1.3, 2.2)
+
+Machine-Level Format: 2570
+Darlington_Pair_0:
+    1239uf: 1 (0,0) 0 
+    20123f: 1 (5,5) 0 
+1285 0 1287 257 
+
+Visual Format:
+Darlington_Pair_0
+
+103*******
+020*******
+**********
+**********
+**********
+*****1030*
+*****0200*
+*****0000*
+**********
+**********
+
+Description Format: 
+id: Darlington_Pair_1
+width: 11
+heigth: 7
+components:
+2N3904: (0, 0), 0
+2N3904: (10, 0), 1
+2N3904: (10, 0), 1
+connections:(1.3, 2.2),(1.1, 2.1)
+
+Machine-Level Format: 1803
+Darlington_Pair_1:
+    2N3904: 3 (0,0) 0 (10,0) 1 (10,0) 1 
+261 777 257 265 
+
+Visual Format:
+Darlington_Pair_1
+
+0000000*000
+0102030*010
+0000000*000
+********020
+********000
+********030
+********000
+
+Description Format: 
+id: Darlington_Pair_0
+width: 10
+heigth: 10
+components:
+20123f: (5, 5), 0
+1239uf: (0, 0), 0
+connections:(1.1, 2.1),(1.3, 2.2)
+
+Machine-Level Format: 2570
+Darlington_Pair_0:
+    1239uf: 1 (0,0) 0 
+    20123f: 1 (5,5) 0 
+1285 0 1287 257 
+
+Visual Format:
+Darlington_Pair_0
+
+103*******
+020*******
+**********
+**********
+**********
+*****1030*
+*****0200*
+*****0000*
+**********
+**********
+
+Description Format: 
+id: Darlington_Pair_1
+width: 11
+heigth: 7
+components:
+2N3904: (0, 0), 0
+2N3904: (10, 0), 1
+2N3904: (10, 0), 1
+connections:(1.3, 2.2),(1.1, 2.1)
+
+Machine-Level Format: 1803
+Darlington_Pair_1:
+    2N3904: 3 (0,0) 0 (10,0) 1 (10,0) 1 
+261 777 257 265 
+
+Visual Format:
+Darlington_Pair_1
+
+0000000*000
+0102030*010
+0000000*000
+********020
+********000
+********030
+********000
+
+Description Format: 
+id: Darlington_Pair_0
+width: 10
+heigth: 10
+components:
+20123f: (5, 5), 0
+1239uf: (0, 0), 0
+connections:(1.1, 2.1),(1.3, 2.2)
+
+Machine-Level Format: 2570
+Darlington_Pair_0:
+    1239uf: 1 (0,0) 0 
+    20123f: 1 (5,5) 0 
+1285 0 1287 257 
+
+Visual Format:
+Darlington_Pair_0
+
+103*******
+020*******
+**********
+**********
+**********
+*****1030*
+*****0200*
+*****0000*
+**********
+**********
+
+Description Format: 
+id: Darlington_Pair_1
+width: 11
+heigth: 7
+components:
+2N3904: (0, 0), 0
+2N3904: (10, 0), 1
+2N3904: (10, 0), 1
+connections:(1.3, 2.2),(1.1, 2.1)
+
+Machine-Level Format: 1803
+Darlington_Pair_1:
+    2N3904: 3 (0,0) 0 (10,0) 1 (10,0) 1 
+261 777 257 265 
+
+Visual Format:
+Darlington_Pair_1
+
+0000000*000
+0102030*010
+0000000*000
+********020
+********000
+********030
+********000
+
+Description Format: 
+id: Darlington_Pair_0
+width: 10
+heigth: 10
+components:
+20123f: (5, 5), 0
+1239uf: (0, 0), 0
+connections:(1.1, 2.1),(1.3, 2.2)
+
+Machine-Level Format: 2570
+Darlington_Pair_0:
+    1239uf: 1 (0,0) 0 
+    20123f: 1 (5,5) 0 
+1285 0 1287 257 
+
+Visual Format:
+Darlington_Pair_0
+
+103*******
+020*******
+**********
+**********
+**********
+*****1030*
+*****0200*
+*****0000*
+**********
+**********
+
+Description Format: 
+id: Darlington_Pair_1
+width: 11
+heigth: 7
+components:
+2N3904: (0, 0), 0
+2N3904: (10, 0), 1
+2N3904: (10, 0), 1
+connections:(1.3, 2.2),(1.1, 2.1)
+
+Machine-Level Format: 1803
+Darlington_Pair_1:
+    2N3904: 3 (0,0) 0 (10,0) 1 (10,0) 1 
+261 777 257 265 
+
+Visual Format:
+Darlington_Pair_1
+
+0000000*000
+0102030*010
+0000000*000
+********020
+********000
+********030
+********000
+
+Description Format: 
+id: Darlington_Pair_0
+width: 10
+heigth: 10
+components:
+20123f: (5, 5), 0
+1239uf: (0, 0), 0
+connections:(1.1, 2.1),(1.3, 2.2)
+
+Machine-Level Format: 2570
+Darlington_Pair_0:
+    1239uf: 1 (0,0) 0 
+    20123f: 1 (5,5) 0 
+1285 0 1287 257 
+
+Visual Format:
+Darlington_Pair_0
+
+103*******
+020*******
+**********
+**********
+**********
+*****1030*
+*****0200*
+*****0000*
+**********
+**********
+
+Description Format: 
+id: Darlington_Pair_1
+width: 11
+heigth: 7
+components:
+2N3904: (0, 0), 0
+2N3904: (10, 0), 1
+2N3904: (10, 0), 1
+connections:(1.3, 2.2),(1.1, 2.1)
+
+Machine-Level Format: 1803
+Darlington_Pair_1:
+    2N3904: 3 (0,0) 0 (10,0) 1 (10,0) 1 
+261 777 257 265 
+
+Visual Format:
+Darlington_Pair_1
+
+0000000*000
+0102030*010
+0000000*000
+********020
+********000
+********030
+********000
+
+Description Format: 
+id: Darlington_Pair_0
+width: 10
+heigth: 10
+components:
+20123f: (5, 5), 0
+1239uf: (0, 0), 0
+connections:(1.1, 2.1),(1.3, 2.2)
+
+Machine-Level Format: 2570
+Darlington_Pair_0:
+    1239uf: 1 (0,0) 0 
+    20123f: 1 (5,5) 0 
+1285 0 1287 257 
+
+Visual Format:
+Darlington_Pair_0
+
+103*******
+020*******
+**********
+**********
+**********
+*****1030*
+*****0200*
+*****0000*
+**********
+**********
+
+Description Format: 
+id: Darlington_Pair_1
+width: 11
+heigth: 7
+components:
+2N3904: (0, 0), 0
+2N3904: (10, 0), 1
+2N3904: (10, 0), 1
+connections:(1.3, 2.2),(1.1, 2.1)
+
+Machine-Level Format: 1803
+Darlington_Pair_1:
+    2N3904: 3 (0,0) 0 (10,0) 1 (10,0) 1 
+261 777 257 265 
+
+Visual Format:
+Darlington_Pair_1
+
+0000000*000
+0102030*010
+0000000*000
+********020
+********000
+********030
+********000
+
+Description Format: 
+id: Darlington_Pair_0
+width: 10
+heigth: 10
+components:
+20123f: (5, 5), 0
+1239uf: (0, 0), 0
+connections:(1.1, 2.1),(1.3, 2.2)
+
+Machine-Level Format: 2570
+Darlington_Pair_0:
+    1239uf: 1 (0,0) 0 
+    20123f: 1 (5,5) 0 
+1285 0 1287 257 
+
+Visual Format:
+Darlington_Pair_0
+
+103*******
+020*******
+**********
+**********
+**********
+*****1030*
+*****0200*
+*****0000*
+**********
+**********
+
+Description Format: 
+id: Darlington_Pair_1
+width: 11
+heigth: 7
+components:
+2N3904: (0, 0), 0
+2N3904: (10, 0), 1
+2N3904: (10, 0), 1
+connections:(1.3, 2.2),(1.1, 2.1)
+
+Machine-Level Format: 1803
+Darlington_Pair_1:
+    2N3904: 3 (0,0) 0 (10,0) 1 (10,0) 1 
+261 777 257 265 
+
+Visual Format:
+Darlington_Pair_1
+
+0000000*000
+0102030*010
+0000000*000
+********020
+********000
+********030
+********000
+
+Description Format: 
+id: Darlington_Pair_0
+width: 10
+heigth: 10
+components:
+20123f: (5, 5), 0
+1239uf: (0, 0), 0
+connections:(1.1, 2.1),(1.3, 2.2)
+
+Machine-Level Format: 2570
+Darlington_Pair_0:
+    1239uf: 1 (0,0) 0 
+    20123f: 1 (5,5) 0 
+1285 0 1287 257 
+
+Visual Format:
+Darlington_Pair_0
+
+103*******
+020*******
+**********
+**********
+**********
+*****1030*
+*****0200*
+*****0000*
+**********
+**********
+
+Description Format: 
+id: Darlington_Pair_0
+width: 11
+heigth: 7
+components:
+2N3904: (0, 0), 0
+2N3904: (10, 0), 1
+2N3904: (10, 0), 1
+connections:(1.3, 2.2),(1.1, 2.1)
+
+Machine-Level Format: 1803
+Darlington_Pair_0:
+    2N3904: 3 (0,0) 0 (10,0) 1 (10,0) 1 
+261 777 257 265 
+
+Visual Format:
+Darlington_Pair_0
+
+0000000*000
+0102030*010
+0000000*000
+********020
+********000
+********030
+********000
+
+Description Format: 
+id: Darlington_Pair_0
+width: 11
+heigth: 7
+components:
+2N3904: (0, 0), 0
+2N3904: (10, 0), 1
+2N3904: (10, 0), 1
+connections:(1.3, 2.2),(1.1, 2.1)
+
+Machine-Level Format: 1803
+Darlington_Pair_0:
+    2N3904: 3 (0,0) 0 (10,0) 1 (10,0) 1 
+261 777 257 265 
+
+Visual Format:
+Darlington_Pair_0
+
+0000000*000
+0102030*010
+0000000*000
+********020
+********000
+********030
+********000
+
+Description Format: 
+id: Darlington_Pair_0
+width: 11
+heigth: 7
+components:
+2N3904: (0, 0), 0
+2N3904: (10, 0), 1
+2N3904: (10, 0), 1
+connections:(1.3, 2.2),(1.1, 2.1)
+
+Machine-Level Format: 1803
+Darlington_Pair_0:
+    2N3904: 3 (0,0) 0 (10,0) 1 (10,0) 1 
+261 777 257 265 
+
+Visual Format:
+Darlington_Pair_0
+
+0000000*000
+0102030*010
+0000000*000
+********020
+********000
+********030
+********000
+
+Description Format: 
+id: Darlington_Pair_0
+width: 11
+heigth: 7
+components:
+2N3904: (0, 0), 0
+2N3904: (10, 0), 1
+2N3904: (10, 0), 1
+connections:(1.3, 2.2),(1.1, 2.1)
+
+Machine-Level Format: 1803
+Darlington_Pair_0:
+    2N3904: 3 (0,0) 0 (10,0) 1 (10,0) 1 
+261 777 257 265 
+
+Visual Format:
+Darlington_Pair_0
+
+0000000*000
+0102030*010
+0000000*000
+********020
+********000
+********030
+********000
+
+Description Format: 
+id: Darlington_Pair_0
+width: 11
+heigth: 7
+components:
+2N3904: (0, 0), 0
+2N3904: (10, 0), 1
+2N3904: (10, 0), 1
+connections:(1.3, 2.2),(1.1, 2.1)
+
+Machine-Level Format: 1803
+Darlington_Pair_0:
+    2N3904: 3 (0,0) 0 (10,0) 1 (10,0) 1 
+261 777 257 265 
+
+Visual Format:
+Darlington_Pair_0
+
+0000000*000
+0102030*010
+0000000*000
+********020
+********000
+********030
+********000
+
+Description Format: 
+id: Darlington_Pair_0
+width: 11
+heigth: 7
+components:
+2N3904: (0, 0), 0
+2N3904: (10, 0), 1
+2N3904: (10, 0), 1
+connections:(1.3, 2.2),(1.1, 2.1)
+
+Machine-Level Format: 1803
+Darlington_Pair_0:
+    2N3904: 3 (0,0) 0 (10,0) 1 (10,0) 1 
+261 777 257 265 
+
+Visual Format:
+Darlington_Pair_0
+
+0000000*000
+0102030*010
+0000000*000
+********020
+********000
+********030
+********000
+
