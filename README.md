@@ -1,4 +1,5 @@
-# s05-Project-ProjectTsukuyomi Coding convetions
+# First Project in C++ in CodeAcademy
+# ProjectTsukuyomi Coding convetions
 
 # We use camelCase
 
